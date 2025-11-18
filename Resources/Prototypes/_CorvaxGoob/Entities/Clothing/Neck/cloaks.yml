@@ -60,7 +60,7 @@
   parent: ClothingNeckBase
   id: ClothingNeckCloakHosExperimental
   name: experimental HOS cloak
-  description: An experimental sample of the HOS cloak.
+  description: An experimental HOS cloak that provides style and an impressive appearance to its wearer.
   components:
     - type: Sprite
       sprite: _CorvaxGoob/Clothing/Neck/Cloaks/hos_experimental_cloak.rsi
